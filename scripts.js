@@ -11,8 +11,8 @@ const textos = [
     "Outro exemplo de texto",
     "mais um",
     "pronto",
-    "quase lá"
-    "mais um exemplo"
+    "quase lá",
+    "mais um exemplo",
     "borá lá"
 ];
 
