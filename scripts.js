@@ -12,6 +12,8 @@ const textos = [
     "mais um",
     "pronto",
     "quase lá"
+    "mais um exemplo"
+    "borá lá"
 ];
 
 function novoTexto() {
